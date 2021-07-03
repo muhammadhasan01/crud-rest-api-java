@@ -11,7 +11,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="crud-rest-api" target="1.8" />
+      <module name="crud-rest-api" target="9" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
